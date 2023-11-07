@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "work": "To learn react "
+    },
+    {
+      "id": "3",
+      "work": "To learn js"
+    },
+    {
+      "id": "4",
+      "work": "To learn tailwind"
+    },
+    {
+      "id": "43",
+      "work": "Going to Ohio"
+    },
+    {
+      "id": "73",
+      "work": "Going to europe"
+    }
+  ]
+}
